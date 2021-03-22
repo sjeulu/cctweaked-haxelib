@@ -1,13 +1,11 @@
 {
-	"name": "computercraft",
-	"url": "https://github.com/apemanzilla/computercraft-haxelib",
+	"name": "cctweaked",
+	"url": "https://github.com/CCTweakedHaxePrograms/cctweaked-haxelib",
 	"license": "MIT",
-	"tags": ["computercraft", "cc", "minecraft", "lua"],
-	"description": "Bindings for the Lua APIs of the ComputerCraft mod for Minecraft",
-	"version": "1.0.2",
+	"tags": ["computercraft", "cc", "minecraft", "lua", "cctweaked"],
+	"description": "Bindings for the Lua APIs of the CC: Tweaked mod for Minecraft",
+	"version": "2.0.0",
 	"classPath": "src",
-	"releasenote": "Fixes missing @:luaDotMethod on TerminalObject and package for ComputerCraft",
-	"contributors": [
-		"apemanzilla"
-	]
+	"releasenote": "Adds many missing apis added by CC: Tweaked",
+	"contributors": ["apemanzilla", "RGFTheCoder"]
 }
