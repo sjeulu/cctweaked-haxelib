@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"tags": ["computercraft", "cc", "minecraft", "lua", "cctweaked"],
 	"description": "Bindings for the Lua APIs of the CC: Tweaked mod for Minecraft",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"classPath": "src",
 	"releasenote": "Adds many missing apis added by CC: Tweaked",
 	"contributors": ["RGFTheCoder", "apemanzilla"]
