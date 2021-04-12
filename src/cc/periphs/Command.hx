@@ -7,9 +7,9 @@ extern class CommandResult {
 }
 
 extern class Command {
-	public static function getCommand():String;
+	public function getCommand():String;
 
-	public static function setCommand(command:String):Void;
+	public function setCommand(command:String):Void;
 
-	public static function runCommand():CommandResult;
+	public function runCommand():CommandResult;
 }
